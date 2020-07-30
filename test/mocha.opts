@@ -1,0 +1,4 @@
+--file test/helpers.js
+--require @babel/register
+--reporter spec
+--slow 300
