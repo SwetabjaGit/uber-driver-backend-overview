@@ -14,7 +14,7 @@ Most of these Endpints are hit from the Driver App.
 
 `/ride-now` - Customer begins search for cabs
 
-`/go-online` - Driver becomes eligible for accepting rides
+`/go-online` - Driver starts appearing in Discovery Radius of Rider
 
 `/go-offline` - Driver is no longer visible in Discovery Radius
 
@@ -24,7 +24,7 @@ Most of these Endpints are hit from the Driver App.
 
 `/navigate-to-rider` - App calculates an optimal path to navigate to Rider
 
-`/start-trip` - Calculate optimal path to rider and Start the Trip
+`/start-trip` - Calculate optimal path to Destination and Start the Trip
 
 `/collect-cash` - Indicate the app when cash is collected from rider
 
