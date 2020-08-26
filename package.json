@@ -19,7 +19,7 @@
     "kill": "./node_modules/.bin/pm2 delete www"
   },
   "dependencies": {
-    "bcrypt": "3.0.6",
+    "bcrypt": "5.0.0",
     "body-parser": "1.18.3",
     "core-js": "3.2.1",
     "debug": "~2.6.9",
