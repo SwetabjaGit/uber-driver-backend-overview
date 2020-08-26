@@ -30,7 +30,7 @@ Most of these Endpints are hit from the Driver App.
 
 `/complete-trip` - Change the status of the trip to completed
 
-`/rate-rider` - Rate the Rider from 1 - 5
+`/rate-rider` - Rate the Rider on a scale of 1 - 5
 
 
 ## Execute commands:
