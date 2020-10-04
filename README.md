@@ -6,8 +6,8 @@ Most of these Endpints are hit from the Driver App.
 
 ## API Endpoints
 
-`/trips` - Get all Trips
-`/riders` - Get all Riders
+Get all Trips - `/trips`
+Get all Riders - `/riders`
 
 `/drivers` - Get all Drivers
 
