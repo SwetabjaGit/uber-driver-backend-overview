@@ -3,6 +3,15 @@
 Simple Backend Implementation of Uber Like Driver API in Nodejs and Mysql using Sequelize ORM.
 Most of these Endpints are hit from the Driver App.
 
+## How to run:
+
+`npm install` - Install dependencies   
+`npx sequelize db:migrate` - Just to run the migrations   
+`npm run dev` - Start dev server and run the migrations   
+`npm run test-integration` - Run test's   
+
+## Link to video
+[![DEMO](thumbnail.png)](https://www.youtube.com/watch?v=_y_SRgLEuxg)
 
 ## API Endpoints
 
@@ -20,9 +29,4 @@ Most of these Endpints are hit from the Driver App.
 `/complete-trip` - Change the status of the trip to completed   
 `/rate-rider` - Rate the Rider on a scale of 1 - 5   
 
-## Execute commands:
 
-`npm install` - Install dependencies   
-`npx sequelize db:migrate` - Just to run the migrations   
-`npm run dev` - Start dev server and run the migrations   
-`npm run test-integration` - Run test's   
